@@ -1,2 +1,2 @@
 # Differential-Growth
-Differential Growth on Grasshopper - Rhinoceros
+Differential Growth scripts on Grasshopper - Rhinoceros
